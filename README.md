@@ -13,7 +13,7 @@ My expertise spans:
 
 </p>
 
-- Portfolio: [https://chaudharyaman.com/](https://chaudharyaman.com/)
+- Website: [[https://chaudharyaman.com/](https://amanchaudhary.com/)]([https://chaudharyaman.com/](https://amanchaudhary.com/))
 - Email: **amanchaudhary.web@gmail.com**
   
 <h3 align="left">Connect with me:</h3>
