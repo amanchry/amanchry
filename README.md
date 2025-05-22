@@ -1,5 +1,4 @@
 <h1 align="left">Aman Chaudhary</h1>
-<h3 align="left">A Full Stack WebGIS Developer.</h3>
 
 <p align="left">
   I specialize in building interactive and visually compelling web-based GIS applications, blending robust backend systems with seamless user experiences.
@@ -9,12 +8,11 @@ My expertise spans:
 - Mapping Libraries: LeafletJS, OpenLayers, Mapbox, CesiumJS, MapLibre, MapTiler, TerriaJS, PlotlyJS, ArcGIS API for JavaScript, Google Maps API
 - Backend Development: NodeJS, Flask, Django, RESTful APIs
 - Databases: MongoDB, PostgreSQL, PostGIS, MySQL, Firebase
-- Geo Tools: QGIS, ArcGIS, GeoServer, GRASS GIS, GDAL, Google Earth Pro, Google Earth Engine, Terracotta Server
+- Geo Tools: QGIS, ArcGIS, GeoServer, GRASS GIS, GDAL, GeoNode, Google Earth Pro, Google Earth Engine, Terracotta Server
 - Cloud and Server Management: AWS, Ubuntu, Apache Server, Nginx Server, uWSGI
 
 </p>
 
-I am passionate about leveraging geospatial technologies to craft dynamic, user-centric applications that solve complex challenges.
 - Portfolio: [https://chaudharyaman.com/](https://chaudharyaman.com/)
 - Email: **amanchaudhary.web@gmail.com**
   
