@@ -3,6 +3,9 @@
 <p align="left">
   I specialize in building interactive and visually compelling web-based GIS applications, blending robust backend systems with seamless user experiences.
 
+  With deep expertise in WebGIS, remote sensing, spatial analytics, and Earth observation, I build digital tools that enable decision-making, monitoring, and planning across diverse domains — including water resources, agriculture, food systems, climate, urban development, disaster risk, and sustainability.
+  
+
 My expertise spans:
 - Frontend Development: HTML5, CSS3, JavaScript, Bootstrap, Tailwind CSS, ReactJS, NextJS
 - Mapping Libraries: LeafletJS, OpenLayers, Mapbox, CesiumJS, MapLibre, MapTiler, TerriaJS, PlotlyJS, ArcGIS API for JavaScript, Google Maps API
